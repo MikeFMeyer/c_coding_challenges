@@ -1,22 +1,19 @@
-# Spy Numbers
-A program that checks whether a number is a spy number or not.
-A number is called spy if the sum and product of its digits are equal.
+# C Coding Challenges
 
-For example:
-(1 + 2 + 3) = (1 * 2 * 3)
+This project consist of multiple programs. The purpose of writing these programs is to better my experience with c and to learn in the process.
 
 ## Installation:
 
-To get started, clone the spy_numbers repo and go into the folder:
+To get started, clone the c_coding_challenges repo and go into the folder:
 
 ```
-git clone https://github.com/mikefmeyer/spy_numbers
-cd spy_numbers/
+git clone https://github.com/mikefmeyer/c_coding_challenges
+cd c_coding_challenges/
 ```
 
 ## Compiling the project:
 
-This project uses my libft library, thus the library needs to be compiled before compiling the spy program.
+This project uses my libft library, thus the library needs to be compiled before compiling any of the program.
 
 ### Making:
 
@@ -32,6 +29,6 @@ make
 Run the following command to compile the program.
 
 ```
-gcc spy.c libft.a
+gcc [filename] libft.a
 ./a.out
 ```
