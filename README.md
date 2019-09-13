@@ -1,6 +1,6 @@
 # C Coding Challenges
 
-This project consist of multiple programs. The purpose of writing these programs is to better my experience with c and to learn in the process.
+This project consists of multiple programs. The purpose of writing these programs is to better my experience with c and to learn in the process.
 
 ## Installation:
 
