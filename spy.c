@@ -1,3 +1,12 @@
+# ===========================================================================
+# Spy Numbers
+# A program that checks whether a number is a spy number or not.
+# A number is called spy if the sum and product of its digits are equal.
+
+# For example:
+# (1 + 2 + 3) = (1 * 2 * 3)
+# ===========================================================================
+
 #include <stdio.h>
 #include "libft/libft.h"
 #define MAX 15
