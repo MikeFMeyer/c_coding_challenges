@@ -31,7 +31,7 @@ int main()
 			while (i <= len)
 			{
 				add += num % 10;
-		       		mul *= num % 10;
+				mul *= num % 10;
 				num /= 10;
 				i++;
 			}
